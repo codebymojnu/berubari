@@ -1,0 +1,8 @@
+#student-name {
+    font-size: 1.1em;
+    cursor: pointer;
+}
+
+#student-name:hover {
+    text-decoration: underline;
+}

@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+# Website for Berubari Union
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> আমার ইউনিয়নের নাম বেরুবাড়ী। এটি কুড়িগ্রাম জেলার নাগেশ্বরী উপজেলার ১টি ইউনিয়ন। আমার ইউনিয়ন শিক্ষায়, মানবিকতায়, প্রযুক্তিতে এগিয়ে যাক- এই উদ্যেশ্য নিয়ে এই ওয়েবসাইটি তৈরি করা। 
 
-## Available Scripts
+** উদ্যেশ্যঃ **
 
-In the project directory, you can run:
+1. ওয়েবসাইটে SSC তে A+, HSC তে A+ এবং university তে চান্স পাওয়া শিক্ষার্থীদের লিস্ট থাকবে 
+2. ওয়েবসাইটে বেরুবাড়ীর ইউনিয়নের নিউজ থাকবে। 
+3. এবং ওয়েবসাইটে আমাদের শিক্ষার্থীদের লেখা গল্প, কবিতা এবং জোকস থাকবে। 
+4. ওয়েবসাইটে ইডুকেশনাল কন্টেন থাকবে। 
+5. ওয়েবসাইটে সকল শিক্ষকগণের তথ্য, সকল খেলোয়াড়দের তথ্য থাকবে। 
 
-### `npm start`
+* লাইভঃ [https://berubari.netlify.app](berubari.netlify.app)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
